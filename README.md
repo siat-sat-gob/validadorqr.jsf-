@@ -1,0 +1,2 @@
+# validadorqr.jsf-
+validador sat 
